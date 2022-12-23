@@ -1,13 +1,5 @@
-
-print('this is my  Python Program')
-print('this is my  Python Program')
-print('this is my  Python Program')
-print('this is my  Python Program')
-print('this is my  Python Program')
-print('this is my  Python Program')
-print('this is my  Python Program')
-print('this is my  Python Program')
-print('this is my  Python Program')
-print('this is my  Python Program')
-print('this is my  Python Program')
+print('Hello World')
+print('Python-Learning 第1次，变更')
+print('Python-Learning 第2次，变更')
+print('Python-Learning 第3次，变更')
 
